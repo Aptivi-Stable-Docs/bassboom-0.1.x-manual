@@ -1,8 +1,9 @@
 ---
 description: Music player in your console!
+icon: music
 ---
 
-# 🎶 BassBoom CLI
+# BassBoom CLI
 
 <figure><img src="../../.gitbook/assets/BB.Cli.png" alt=""><figcaption></figcaption></figure>
 

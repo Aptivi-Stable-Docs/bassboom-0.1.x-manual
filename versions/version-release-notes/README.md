@@ -1,8 +1,9 @@
 ---
 description: Every version have their own changes.
+icon: newspaper
 ---
 
-# 🗞 Version Release Notes
+# Version Release Notes
 
 Every single version of BassBoom comes with many changes, including feature additions, general improvements, and bug fixes. This page lists all the versions from the oldest to the newest.
 

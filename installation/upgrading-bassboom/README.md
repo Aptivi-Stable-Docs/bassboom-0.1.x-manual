@@ -1,8 +1,9 @@
 ---
 description: How to upgrade your bootloader.
+icon: up
 ---
 
-# ⬆ Upgrading BassBoom
+# Upgrading BassBoom
 
 BassBoom can be upgraded in all supported platforms. Select your platform to get instructions.
 

@@ -1,8 +1,9 @@
 ---
 description: How BassBoom is going to blow your mind.
+icon: wand-magic-sparkles
 ---
 
-# 🪄 BassBoom Features
+# BassBoom Features
 
 Within the music player, there are big amounts of features that actually excite you. As new versions get released, new and spectacular features get added.
 

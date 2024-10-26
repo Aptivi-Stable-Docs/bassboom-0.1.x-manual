@@ -1,8 +1,9 @@
 ---
 description: Formatting tools for your music files
+icon: cassette-tape
 ---
 
-# 📼 Format
+# Format
 
 Formatting tools for your music files in the Basolia library allow you to get information about your music file, such as getting a total duration, getting frame size and length, and getting ID3v2 metadata.
 

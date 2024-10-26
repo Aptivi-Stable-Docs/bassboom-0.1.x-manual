@@ -1,8 +1,9 @@
 ---
 description: How to install BassBoom to your PC
+icon: compact-disc
 ---
 
-# 📀 Installing BassBoom
+# Installing BassBoom
 
 BassBoom can be installed on all the supported platforms. The installation steps are straightforward, but must be followed in order to ensure that the kernel starts right.
 

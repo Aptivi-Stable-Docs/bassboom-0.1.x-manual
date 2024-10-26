@@ -1,8 +1,9 @@
 ---
 description: What's being said in your song?
+icon: microphone-stand
 ---
 
-# 🎙️ Lyrics
+# Lyrics
 
 Just use the `LyricReader` class that contains:
 

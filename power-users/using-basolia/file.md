@@ -1,8 +1,9 @@
 ---
 description: File management for BassBoom
+icon: file-audio
 ---
 
-# 📄 File
+# File
 
 The file tools shipped with the BassBoom.Basolia library allows you to open and close a music file so that you can play music and get its information, such as the ID3v2 metadata information.
 

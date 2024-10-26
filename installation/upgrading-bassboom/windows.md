@@ -1,8 +1,9 @@
 ---
 description: Upgrading BassBoom on Windows!
+icon: windows
 ---
 
-# 🖥 Windows
+# Windows
 
 To upgrade BassBoom in your Windows system, replace the current GRILO executable with the latest version.
 

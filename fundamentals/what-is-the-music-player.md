@@ -1,8 +1,9 @@
 ---
 description: What plays your music?
+icon: waveform-lines
 ---
 
-# 🔊 What is the music player?
+# What is the music player?
 
 A music player, usually found on almost all your devices that play audio, is an application that allows you to play any music file stored either on your computer or on a remote computer. Music players usually come with the most basic features, such as seeking, changing volumes, forward and backward, and playlists.
 

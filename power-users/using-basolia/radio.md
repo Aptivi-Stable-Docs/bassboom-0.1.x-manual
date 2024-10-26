@@ -1,8 +1,9 @@
 ---
 description: You're now listening to an FM radio station!
+icon: radio
 ---
 
-# 📻 Radio
+# Radio
 
 BassBoom provides you with the Internet radio features, such as playing them and getting information about your favorite radio station. You can use the `FileTools.OpenUrl()` function to open the MPG123 handle to the radio station URL, assuming that said station uses MPEG and not AAC or other formats. Use the `PlaybackTools.Play()`, as usual, to play the radio station.
 

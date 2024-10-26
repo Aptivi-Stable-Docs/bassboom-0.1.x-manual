@@ -1,8 +1,9 @@
 ---
 description: Album management in your own hands
+icon: disc-drive
 ---
 
-# 💽 Albums
+# Albums
 
 In addition to all of the BassBoom's Basolia features that we've explained in the entire documentation, this library also provides you with the tools necessary to manage your albums.
 

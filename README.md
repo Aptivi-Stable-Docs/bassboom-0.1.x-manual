@@ -1,8 +1,9 @@
 ---
 description: Welcome to BassBoom!
+icon: hand-wave
 ---
 
-# 👋 Welcome!
+# Welcome!
 
 <figure><img src=".gitbook/assets/BB.Cli.png" alt=""><figcaption></figcaption></figure>
 

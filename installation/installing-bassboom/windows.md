@@ -1,8 +1,9 @@
 ---
 description: Installing BassBoom on Windows!
+icon: windows
 ---
 
-# 🖥 Windows
+# Windows
 
 Before performing the installation, your Windows system must meet the following requirements:
 

@@ -1,8 +1,9 @@
 ---
 description: Play your music!
+icon: play
 ---
 
-# 🎼 Playback
+# Playback
 
 The playback tools in the Basolia library contains two separate sections: the actual playback tools and the playback positioning tools.
 

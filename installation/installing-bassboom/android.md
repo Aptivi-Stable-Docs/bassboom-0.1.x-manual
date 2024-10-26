@@ -1,8 +1,9 @@
 ---
 description: Installing BassBoom to Android!
+icon: android
 ---
 
-# 📱 Android
+# Android
 
 The tricky part is getting BassBoom to run on Android phones and tablets, especially those that run the latest version of Android. The trickier part is getting PulseAudio to work.
 

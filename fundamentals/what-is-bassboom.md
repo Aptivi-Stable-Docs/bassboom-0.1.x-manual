@@ -1,8 +1,9 @@
 ---
 description: What is this program?
+icon: headphones
 ---
 
-# 🎧 What is BassBoom?
+# What is BassBoom?
 
 BassBoom aims to be a cross-platform music player that allows you to play MP3 files from any hard drive installed on your computer, your phone, or on your tablet.
 

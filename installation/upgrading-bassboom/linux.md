@@ -1,8 +1,9 @@
 ---
 description: How to upgrade BassBoom on Linux!
+icon: linux
 ---
 
-# 🐧 Linux
+# Linux
 
 To upgrade BassBoom in your Linux system, replace the current BassBoom executable with the latest version.
 

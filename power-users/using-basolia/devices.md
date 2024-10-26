@@ -1,8 +1,9 @@
 ---
 description: Sound device management in your hands!
+icon: speakers
 ---
 
-# 📀 Devices
+# Devices
 
 The device tools shipped with the Basolia library allow you to manage your sound devices and your available sound drivers for MPG123.
 

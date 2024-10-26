@@ -1,8 +1,9 @@
 ---
 description: Installing BassBoom on Linux!
+icon: linux
 ---
 
-# 🐧 Linux
+# Linux
 
 Before performing the installation, your Linux system must meet the following requirements:
 

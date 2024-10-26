@@ -1,8 +1,9 @@
 ---
 description: Music player in your desktop!
+icon: music
 ---
 
-# 🎵 BassBoom GUI
+# BassBoom GUI
 
 <figure><img src="../../.gitbook/assets/BB.Gui.png" alt=""><figcaption></figcaption></figure>
 
